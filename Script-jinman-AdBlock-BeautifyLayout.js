@@ -2,7 +2,7 @@
 // @name         禁漫天堂&&去广告&&净化
 // @namespace    https://github.com/GangChengHuang
 // @version      1.1
-// @description  禁漫天堂&&去广告&&净化
+// @description  禁漫天堂&&去广告&&净化&&简洁&&无声
 // @author       PeterG
 // @match        https://18comic.vip/*
 // @match        https://jm-comic1.club/*
